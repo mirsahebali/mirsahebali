@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack developement.<br>👯 I’m looking to collaborate on full stack web projects.<br>🤝 I’m looking for help with any backend apps.<br>🌱 I’m currently learning GraphQL and data stcutures and algorithms implementation.
+🔭 I’m currently working on full stack developement.<br>👯 I’m looking to collaborate on full stack web projects.<br>🤝 I’m looking for help with any backend apps.<br>🌱 I’m currently learning data stcutures and algorithms implementation.
 
 
 ## 🌐 Socials:
