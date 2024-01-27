@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making a database from scratch in go<br>🌱 I’m currently learning Haskell, Data Structures, Emacs Lisp<br>👯 I’m looking to collaborate on Backend projects involving Go, Docker and Typescript<br>👨‍💻 All of my projects are available at https://github.com/mirsahebali<br>💬 Ask me about Linux, GO, Typescript, React, Next.js, SQL and NoSQL<br>
+🔭 I’m currently working on making a database from scratch in go<br>🌱 I’m currently learning Rust, Haskell, Data Structures, Emacs Lisp<br>👯 I’m looking to collaborate on Backend projects involving Go, Docker and Typescript<br>👨‍💻 All of my projects are available at https://github.com/mirsahebali<br>💬 Ask me about Linux, GO, Typescript, React, Next.js, SQL and NoSQL<br>
 
 
 ## 🌐 Socials:
