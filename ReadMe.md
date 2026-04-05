@@ -1,4 +1,4 @@
-<h2 align="left">Software Developer<br>Low Level + Web + Server + GNU/Linux + Neovim + FOSS</h2>
+<h2 align="left">Software Engineer</h2>
 
 ###
 
@@ -31,24 +31,7 @@
   <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mir-saheb-ali/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mirsahebali@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Protonmail&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
-  </a>
-  <a href="https://www.youtube.com/@buildln" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mirsahebali/mirsahebali/output/snake.svg" alt="Snake animation" />
 
 ###
