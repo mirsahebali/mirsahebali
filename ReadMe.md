@@ -32,8 +32,7 @@
   <!-- Systems / toolchain -->
   <img src="https://cdn.simpleicons.org/gnu/A42E2B" height="30" alt="gnu / make logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gcc/A42E2B" height="30" alt="gcc logo"  />
-  <img width="12" />
+
   <img src="https://cdn.simpleicons.org/llvm/262D3A" height="30" alt="llvm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cmake/064F8C" height="30" alt="cmake logo"  />
